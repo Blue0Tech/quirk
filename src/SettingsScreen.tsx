@@ -385,6 +385,14 @@ class SettingScreen extends React.Component<Props, State> {
                   }}
                 />
               )}
+              <Paragraph
+                style = {{
+                  marginBottom : 16
+                }}
+              >
+                Edited by Pruthvi Shrikaanth to change allowed
+                length of pincode from 4 to 8 inclusive.
+              </Paragraph>
             </Row>
 
             <Row
