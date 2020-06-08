@@ -391,7 +391,7 @@ class SettingScreen extends React.Component<Props, State> {
                 }}
               >
                 Edited by Pruthvi Shrikaanth to change allowed
-                length of pincode from 4 to 8 inclusive.
+                length of pincode to 6.
               </Paragraph>
             </Row>
 
